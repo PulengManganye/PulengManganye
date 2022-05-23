@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @PulengManganye
+- 👋 Hi, I’m @puleng-manganye
 - 👀 I’m interested in Game Design in general
 - 🌱 I’m currently a Game Design and Digital Arts student at Wits University, Johannesburg
-<!--- 
-💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+-  - 📫 You can reach me via email: 1915865@students.wits.ac.za
 
-<!---
-PulengManganye/PulengManganye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- 💞️ I’m looking to collaborate on ... --->
